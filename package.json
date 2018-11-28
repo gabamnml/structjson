@@ -1,0 +1,16 @@
+{
+  "name": "structjson",
+  "version": "1.0.0",
+  "description": "Utilities for converting between JSON and goog.protobuf.Struct",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "struct",
+    "protobuf",
+    "json"
+  ],
+  "author": "Google",
+  "license": "ISC"
+}
